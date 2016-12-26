@@ -16,5 +16,8 @@
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
     "sinon": "^1.17.6"
+  },
+  "engines": {
+    "node": "7.2.1"
   }
 }
