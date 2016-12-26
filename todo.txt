@@ -1,0 +1,17 @@
+Test
+Set up git repository.
+Deploy to heroku.
+
+Create client application
+
+
+
+
+
+Later:
+DEs, final results
+User model / authentication
+Referee functionality
+Fencer info querying.
+May want to think about refactoring tests since there are so many similar ones.
+Tests for API
