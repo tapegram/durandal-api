@@ -1,3 +1,3 @@
 module.exports = {
-    'mongoUrl' : process.env.MONGOLAB_URI || process.env.MONGOHQ_URL || 'mongodb://localhost/durandal-api'
+    'mongoUrl' : process.env.MONGODB_URI || 'mongodb://localhost/durandal-api'
 }
